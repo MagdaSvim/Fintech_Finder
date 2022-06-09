@@ -12,6 +12,10 @@ When a test transaction is sent by using the application's web interface, you ca
 
 ![Ganache transactions](images/ganache_transactions.PNG)
 
+&NBSP
+
+![Transactions](images/transactions.PNG)
+
 ---
 
 ## Technologies
