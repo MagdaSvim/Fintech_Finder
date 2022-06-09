@@ -6,15 +6,14 @@ Fintech Finder is an application that its customers can use to find fintech prof
 
 Example of the **Fintech Finder App** with integrated Ethereum wallet
 
-![web interface](images/Streamlit.PNG)
+![web interface](Images/Streamlit.PNG)
 
 When a test transaction is sent by using the application's web interface, you can look up the resulting transaction in **Ganache**
 
-![Ganache transactions](images/ganache_transactions.PNG)
+![Ganache transactions](Images/ganache_transactions.PNG)
 
-&NBSP
 
-![Transactions](images/transactions.PNG)
+![Transactions](Images/transactions.PNG)
 
 ---
 
